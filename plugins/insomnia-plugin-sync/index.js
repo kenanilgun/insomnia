@@ -1,0 +1,1 @@
+module.exports.requestGroupActions = require('./src/test');

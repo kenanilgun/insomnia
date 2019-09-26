@@ -1,0 +1,15 @@
+{
+  "name": "insomnia-plugin-sync",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "insomnia": {
+    "name": "sync",
+    "description": "sync desc"
+  },
+  "scripts": {
+    "test": "node --version"
+  },
+  "author": "",
+  "license": "ISC"
+}
